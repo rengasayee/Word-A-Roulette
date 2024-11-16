@@ -1,6 +1,6 @@
 # Word-A-Roulette game
 
-Rules : 
+**Process** : 
 <br />
 <br />
 
