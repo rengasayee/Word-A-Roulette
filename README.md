@@ -3,11 +3,11 @@
 Rules : 
 <br />
 -- **Entering words:** <br />
-    &ensp-- user enters a letter & a square is filled with that letter<br />
-    &ensp-- when a user hits delete it deletes the previous letter<br />
-    &ensp-- when a user hits enter it submits the word<br />
-      &ensp-- if all squares are not filled with letters then the word is not submitted <br />
-      &ensp-- if that word has already been used in a prev guess then the word is not submitted <br />
+      -- user enters a letter & a square is filled with that letter<br />
+      -- when a user hits delete it deletes the previous letter<br />
+      -- when a user hits enter it submits the word<br />
+      -- if all squares are not filled with letters then the word is not submitted <br />
+      -- if that word has already been used in a prev guess then the word is not submitted <br />
 -- **Checking submitted words:** <br />
   -- each letter is checked to see if it matches to the solution <br />
   -- each letter is assigned a color based on it's inclusion in the solution <br />
