@@ -2,7 +2,7 @@
 
 Rules : 
 <br />
--- Entering words:<br />
+-- **Entering words:**<br />
     -- user enters a letter & a square is filled with that letter<br />
     -- when a user hits delete it deletes the previous letter<br />
     -- when a user hits enter it submits the word<br />
