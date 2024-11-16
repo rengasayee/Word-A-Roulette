@@ -2,8 +2,10 @@
 
 Rules : 
 <br />
+<br />
+
 -- **Entering words:** <br />
-            -- user enters a letter & a square is filled with that letter<br />
+      &ensp; -- user enters a letter & a square is filled with that letter<br />
       -- when a user hits delete it deletes the previous letter<br />
       -- when a user hits enter it submits the word<br />
       -- if all squares are not filled with letters then the word is not submitted <br />
