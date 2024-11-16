@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import Wordle from '../components/Wordle'
 
 const useWordle = (solution) => {
     const [turn, setTurn] = useState(0)
@@ -59,7 +58,7 @@ const useWordle = (solution) => {
     // handle keyup event & track current guess
     // if user presses enter, add the new guess
     const handleKeyup = ({ key }) => {
-        // console.log(key)
+        //console.log(key)
         
         if (key === 'Enter'){
             // only add guess if turn is less than 5
